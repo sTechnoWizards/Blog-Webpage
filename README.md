@@ -6,3 +6,4 @@ Blog Application is an application where user can add a new blog, edit it, delet
 3. JavaScript -> LocalStorage <br>
 # Use of Project
 To understand the concept of the localstorage, how localstorage persist the data, even the tab is closed or user refersh the page.
+![image](https://github.com/sTechnoWizards/Blog-Webpage/assets/125432010/a47fa0dd-84af-45a5-aea7-3092797f8c75)
